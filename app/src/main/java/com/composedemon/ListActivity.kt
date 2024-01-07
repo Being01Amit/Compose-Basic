@@ -46,6 +46,7 @@ fun GreetingList() {
     val greetingListState = remember {
         mutableStateListOf<String>("Amit", "Billu", "Rubby")
     }
+    /**/
     for (names in greetingListState) {
         Greeting2(name = names)
     }
