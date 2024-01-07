@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">ComposeDemon</string>
-    <string name="title_activity_list">ListActivity</string>
+    <string name="app_name">Compose Basics</string>
+    <string name="title_activity_profile_ui">ProfileUI</string>
 </resources>

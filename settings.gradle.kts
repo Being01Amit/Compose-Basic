@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ComposeDemon"
+rootProject.name = "Compose Basics"
 include(":app")
+ 
